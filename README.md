@@ -1,19 +1,6 @@
-git clone https://github.com/your-username/ee120.git
-```
+This is the README.md for an EE120 course repository. I will update as I go along.
 
-This repository is for the little scripts that I write for homework in EE120
-
-## Contributing
-
-Contributions to this repository are welcome! If you find any errors or have suggestions for improvements, please submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more information.
-```
-This is a basic README.md file for an EE120 course repository.
-
-* **Specific information about the course:** Instructor, office hours, grading policy, etc.
+* **Specific information about the course:** This repository is for the little scripts that I write for homework in EE120
 * **Links to external resources:** Course website, textbook, etc.
 * **Instructions for using the code:** How to run the code, what libraries are required, etc.
 * **Examples of how to use the code:** Show how to solve specific problems using the code.
